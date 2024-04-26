@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SRM Tracker</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="privacy_policy_content">Thank you for using our app. Your privacy is important to us. This app does not collect or store any personal information about its users.\n\nInformation Collection and Use\n\nOur app does not collect any user data. We do not track your location, access your contacts, or store any information about your usage habits.\n\nData Storage\n\nWe want to emphasize that this app does not store any information on our servers or on any third-party services. We do not have any intentions to store any user data, and we will never store any piece of your data, including but not limited to personal information, browsing history, or any other data generated or entered while using this app.\n\nData Sharing\n\nSince we do not collect or store any user data, we do not share any information with third parties.\n\n</string>
+    <string name="legal">By using this app, you acknowledge and agree that you have provided consent for the app to access and retrieve your information from SRM ERP, and that the app may use this information within the app\'s functionality.\n\nWith your explicit consent, the app may scrape necessary details from your SRM ERP account. It is important to note that the app does not store any of this data locally or on any external servers maintained by the company.\n\nThe app respects user privacy and does not retain any user data obtained from SRM ERP. We solely use the scraped data within the context of this application and do not share or store it.\n\nPlease be informed that any data retrieval from SRM ERP is subject to your consent and is solely utilized within the app\'s features and functionalities.\n\n</string>
+
+
+</resources>

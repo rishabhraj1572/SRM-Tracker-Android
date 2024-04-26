@@ -1,0 +1,13 @@
+<!-- custom_spinner_dropdown_item.xml -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spinner_dropdown_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:textColorHint="@android:color/darker_gray"
+    android:textSize="18sp"
+    android:textColor="@color/black"
+    android:gravity="center_vertical"
+    android:background="@drawable/custom_spinner_background"
+    android:text="Select an option" />
