@@ -2,8 +2,8 @@ package com.rrgroup.myapplication;
 
 public class AppConfig {
 
-    public static String version = "9";
-    public static String jsonURL = "https://rentry.co/xmuhy/raw";
-    public static String shareUrl = "http://srmapp.infinityfreeapp.com/";
+    public static String version = "VERSION";
+    public static String jsonURL = "YOUR_API_URL";
+    public static String shareUrl = "YOUR_SHARE_URL";
 
 }
