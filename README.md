@@ -10,7 +10,7 @@ It handles all tasks locally on your mobile device, ensuring that no data is sto
 
 1. **Auto Login**: Bypass captcha using OCR for automatic login.
 2. **Attendance Data**: Loads all attendance data.
-3. **Attendance Callculation** : Calculates the number of classes needed to attend or can be skipped based on the 75% attendance criteria.
+3. **Attendance Calculation** : Calculates the number of classes needed to attend or can be skipped based on the 75% attendance criteria.
 4. **Scholarship Mode**: Activate this mode to set the attendance criteria to 90%.
 5. **Time Table Mode**: Switch to view time table subjects in the subject data list.
 6. **Full Day Time Table**: View the entire day's time table.
