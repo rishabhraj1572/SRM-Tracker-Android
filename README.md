@@ -7,7 +7,6 @@ It handles all tasks locally on your mobile device, ensuring that no data is sto
 
 [Read Important Information](#important-information).
 
-
 ## Features
 
 1. **Auto Login**: Bypass captcha using OCR for automatic login.
