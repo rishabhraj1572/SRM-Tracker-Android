@@ -1,6 +1,6 @@
 # SRM Tracker
 
-Note: This project is no longer actively maintained.
+Note: This project is no longer maintained.
 
 SRM Tracker is an unofficial reverse-engineered app that scrapes data from the SRM student portal upon user login. 
 It handles all tasks locally on your mobile device, ensuring that no data is stored on any server.
