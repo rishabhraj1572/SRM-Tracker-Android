@@ -33,7 +33,7 @@ It handles all tasks locally on your mobile device, ensuring that no data is sto
 
 ## License
 
-This project is licensed under the terms of the [SRM Tracker License](LICENSE).
+This project is licensed under the terms of the [SRM Tracker License](LICENSE.md).
 
 ## Contact
 
