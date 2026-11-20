@@ -166,6 +166,8 @@ public class MainActivity extends AppCompatActivity {
         bSwitch = findViewById(R.id.bswitch_);
         all_tt_switch = findViewById(R.id.all_tt_switch);
 
+        // this is the code for is checked
+        // isChecked variable is of boolean type
         boolean isChecked = sharedPreferences.getBoolean("isChecked",false);
         if(isChecked){
             aSwitch.setChecked(true);
